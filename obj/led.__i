@@ -1,6 +1,0 @@
--c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I .\user -I .\library\CMSIS -I .\library\STM32F10x_StdPeriph_Driver\inc -I .\APP
--I.\RTE\_Target_1
--IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
--IC:\Keil_v5\ARM\CMSIS\Include
--D__UVISION_VERSION="526" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD
--o .\obj\led.o --omf_browse .\obj\led.crf --depend .\obj\led.d "APP\led.c"

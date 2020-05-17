@@ -1,5 +1,5 @@
-Dependencies for Project 'myTemplate', Target 'Target 1': (DO NOT MODIFY !)
-F (.\user\main.c)(0x5EB02C73)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\user -I .\library\CMSIS -I .\library\STM32F10x_StdPeriph_Driver\inc -I .\APP-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+Dependencies for Project 'myButtonTemplate', Target 'Target 1': (DO NOT MODIFY !)
+F (.\user\main.c)(0x5EC0E6F6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\user -I .\library\CMSIS -I .\library\STM32F10x_StdPeriph_Driver\inc -I .\APP-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
 I (user\stm32f10x.h)(0x5EAF6595)
 I (.\library\CMSIS\core_cm3.h)(0x4D523B58)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
